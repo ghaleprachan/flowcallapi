@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flow</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+</resources>
